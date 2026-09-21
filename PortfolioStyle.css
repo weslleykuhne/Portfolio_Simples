@@ -125,9 +125,13 @@ nav ul li a:hover {
     font-weight: bold;
     transition: 0.3s;
     text-align: center;
-    background-color: rgb(108, 127, 151);
+    background-color: rgb(123, 180, 255);
     color: rgb(255, 255, 255)
     }
+.whatsapp:hover {
+    background-color: #3030f0;
+    color: #fff;
+}
 
 /* Área da imagem */
 .area-imagem {
