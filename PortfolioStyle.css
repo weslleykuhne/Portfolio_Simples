@@ -209,6 +209,7 @@ footer {
     align-items: center;
     gap: 15px;
     padding: 0;
+    display: flex;
   }
 
   .secao-principal {
